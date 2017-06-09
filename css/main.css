@@ -16,6 +16,32 @@ html {
 	}
 }
 
+.Bloc-Jams-Box{
+	display: block;
+}
+
+
+.blocjams-link {
+	text-align: center;
+	color: rgb(88, 206, 202);
+}
+.blocjams-link:hover {
+	color: rgb(150, 100, 150);
+}
+
+.bloc-jams-screenshot {
+	position: relative;
+	left: 25%;
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+	width: 50%;
+}
+
+.Bloc-Jams-block {
+	width: 50%;
+	text-align: center;
+}
+
 body {
 	font-size: 1em;
 	line-height: 1.35;
@@ -26,13 +52,9 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-.bloc-jams-screenshot {
-position: relative;
-left: 10%;
-margin-top: 1rem;
-width: 90%;
-}
-}
+
+
+
 
 img {
 	width: 100%;
@@ -46,17 +68,21 @@ img {
  */
 
 .container {
-  padding-left: 20px;
-  padding-right: 20px;
-  max-width: 650px;
+  padding-left: 10px;
+  padding-right: 10px;
+  max-width: 1130px;
   margin-right: auto;
   margin-left: auto;
+	background-color: rgb(231, 215, 236);
 }
 
 /*
  * Typography
  */
 
+.name {
+	color : #8F7D94;
+}
 p {
 	margin-top: 0;
 	margin-bottom: 1rem;
@@ -79,7 +105,7 @@ h2 {
   font-size: 1.1rem;
 }
 a {
-	color: #7E7E7E;
+	color: #808080;
 }
 ol li,
 ul li {
