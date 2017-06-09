@@ -3,12 +3,5 @@ layout: page
 title: About
 ---
 
-This is my as simple as possible base Jekyll theme.
-
-## This is a heading
-
-This is a paragraph.
-
-* List
-* List
-* List
+I am a focused developer working in JQuery, AngularJS and Rails.
+I enjoy life at its fullest while pursuing happiness.
