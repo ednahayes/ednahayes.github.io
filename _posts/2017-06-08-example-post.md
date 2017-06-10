@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Example post"
+title:  "Bloc Jams Case Study"
 ---
 
-New post content.
-
-![Bloc Jams](/images/bloc-jams.jpg)
+Bloc Jams is a music player app and website.
+![Bloc Jams](/images/blocjams_3.png)
