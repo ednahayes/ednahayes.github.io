@@ -12,6 +12,12 @@
 	font-family: 'Lovers Quarrel', cursive;
 	font-size: 100px;
 	text-align: center;
+	background-image: url(/images/appleblossomRouge.jpg);
+	background-position: center center;
+	position: relative;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 400px;
 }
 
 html {
@@ -25,13 +31,15 @@ html {
 	}
 }
 
+
+
 .nav {
 	text-align: center;
 }
 
 .individual-post{
 	text-align: center;
-	
+
 }
 .Bloc-Jams-Box{
 	display: block;
