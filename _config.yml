@@ -4,3 +4,17 @@ title: Site Title
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+...
+  wordpress:
+  youtube:
+
+  # Scripts
+  # #1
+  google_analytics: UA-101118847-1
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+...
