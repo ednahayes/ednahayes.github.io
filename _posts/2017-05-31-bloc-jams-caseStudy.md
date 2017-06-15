@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Bloc Jams Case Study"
+image: blocjams_3.png
 ---
 
 ## Summary
