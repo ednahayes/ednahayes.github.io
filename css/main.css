@@ -26,6 +26,7 @@ html {
 	background-image: url(/images/iceslideSauna.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
+
 }
 @media (min-width:768px) {
 	html {
@@ -34,45 +35,50 @@ html {
 	}
 }
 
-.form {
+form {
+	max-width: 400px;
+	width:100%;
 	font-size: 16px;
 	background-color: #e6ffff;
 	box-sizing: 20px;
 	border-radius: 5px;
 	padding: 20px;
+	display: inline-block;
+	text-align: right;
 }
 
 
 input[type=text], select {
-    width: 100%;
+    width: auto;
     padding: 20px;
     margin: 8px 0;
-    display: inline-block;
+    display: block;
     border: 1px solid #0000ff;
     border-radius: 4px;
     box-sizing: border-box;
 }
 input[type=email], select {
-    width: 100%;
+    width: auto;
     padding: 12px 20px;
     margin: 8px 0;
-    display: inline-block;
+    display: block;
     border: 1px solid #0000ff;
     border-radius: 4px;
     box-sizing: border-box;
 }
 textarea, select {
-    width: 100%;
+    width: auto;
     padding: 12px 20px;
     margin: 8px 0;
-    display: inline-block;
+    display: block;
     border: 1px solid #0000ff;
     border-radius: 4px;
     box-sizing: border-box;
+
 }
 
 input[type=submit] {
-    width: 100%;
+    width: auto;
 		height: 30%;
     background-color: #3366ff;
     color: white;
@@ -86,6 +92,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
+		width: auto;
     background-color: #99ffff;
 		color: #3366ff;
 		font-family: 'Faster One', cursive;

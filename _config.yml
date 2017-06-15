@@ -18,3 +18,11 @@ permalink: pretty
   # Localization strings
   str_follow_on: "Follow on"
 ...
+
+# SITE CONFIGURATION
+
+ baseurl: "" # the subpath of your site, e.g. /blog/
+ url: "http://ednahayes.github.io" # the base hostname & protocol for your site
+
+ # THEME-SPECIFIC CONFIGURATION
+ theme:
