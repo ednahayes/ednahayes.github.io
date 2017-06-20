@@ -158,7 +158,7 @@ body {
 }
 
 img {
-
+	display: block;
 	left: 25%;
 	margin-top: 1rem;
 	width: 50%;
