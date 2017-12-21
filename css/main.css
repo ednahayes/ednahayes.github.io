@@ -12,7 +12,7 @@
 	font-family: 'Lovers Quarrel', cursive;
 	font-size: 100px;
 	text-align: center;
-	background-image: url(/images/PortfolioHome.jpg);
+	background-image: image-url(/images/PortfolioHome.jpg);
 	background-position: center;
 	position: relative;
 	background-size: cover;
@@ -24,7 +24,7 @@
 html {
 	font-size: 16px;
 	image-orientation: center;
-	background-image: url(/images/Portbody.jpg);
+	background-image: image-url(/images/Portbody.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 
