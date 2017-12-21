@@ -1,8 +1,10 @@
 # PORTFOLIO
 
+![Portfolio Home Page](/images/portOne.png)
+
 This portfolio was created from a Jekyll Base template.
 
-This is a basic application made with Atom that displays the different projects that I made which includes the following:
+This is a basic application made with Atom that displays the different projects that I made which includes the following features:
 
 1. HTML and stylesheets.
 2. Blog posts.
@@ -10,7 +12,11 @@ This is a basic application made with Atom that displays the different projects 
 4. Markdown Syntax.
 5. A config file with a few common presets.
 
+![Portfolio Home Page Part 2](/images/portTwo.png)
 
+![Portfolio Home Page Part ](/images/portThree.png)
+
+![Portfolio Home Page Part ](/images/portFour.png)
 
 ## Notes
 
