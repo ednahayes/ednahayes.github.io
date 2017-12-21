@@ -184,7 +184,7 @@ img {
  */
 
 .name {
-	color : #80ffff;
+	color : #5f467e;
 }
 p {
 	margin-top: 0;
@@ -208,11 +208,12 @@ h2 {
   font-size: 1.1rem;
 }
 a {
-	color: #4d4dff;
+	color: #404096;
 	font-size: 1rem;
+	text-shadow: white 0.3em 0.3em 0.3em;
 }
 a:hover {
-	color: #00cccc;
+	color: #5f467e;
 }
 ol li,
 ul li {
