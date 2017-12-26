@@ -9,13 +9,13 @@
 }
 
 .name {
-	font-family: 'Lovers Quarrel', cursive;
+	font-family: 'Monoton', cursive;
 	font-size: 100px;
 	text-align: center;
 	background-image: url(/images/portfolioHome.jpg);
 	background-position: center;
 	position: relative;
-	background-size: cover;
+	background-size: contain;
 	background-repeat: no-repeat;
 	padding-top: 80px;
 	padding-bottom: 80px;
@@ -282,8 +282,8 @@ footer {
 .fa-facebook {
 	 	background: #3B5998;
     color: white;
-
 		width:100px; height:100px;
+		text-shadow: none;
 }
 
 /* Twitter */
@@ -291,20 +291,31 @@ footer {
     background: #55ACEE;
     color: white;
 		width:100px; height:100px;
+		text-shadow: none;
 }
 
 .fa-github {
     background: linear-gradient(145deg, #3051F1 10%, #C92BB7 70%) no-repeat;
     color: white;
 		width:100px; height:100px;
+		text-shadow: none;
 }
 
 .fa-instagram {
 	color: white;
 	width:100px; height:100px;
-	  background: #f09433;
+	text-shadow: none;
+	background: #f09433;
 	background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
 	background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
 	background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
-	  }
+
+}
+
+.fa-linkedin {
+    background: #0077B5;
+    color: white;
+		width:100px; height:100px;
+		text-shadow: none;
+}
