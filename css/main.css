@@ -10,11 +10,12 @@
 
 .name {
 	font-family: 'Monoton', cursive;
-	font-size: 100px;
+	font-size: 70px;
 	text-align: center;
 	background-image: url(/images/portfolioHome.jpg);
 	background-position: center;
 	position: relative;
+	image-orientation: center;
 	background-size: contain;
 	background-repeat: no-repeat;
 	padding-top: 80px;
@@ -184,7 +185,7 @@ img {
  */
 
 .name {
-	color : #5f467e;
+	color : #3658DD;
 }
 p {
 	margin-top: 0;
