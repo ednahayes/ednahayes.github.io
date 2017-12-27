@@ -209,11 +209,11 @@ h2 {
   font-size: 1.1rem;
 }
 a {
-	color: #404096;
-	font-size: 1rem;
+	color: #3658DD;
+	font-size: 1.5rem;
 }
 a:hover {
-	color: #5f467e;
+	color: #1383EC;
 }
 ol li,
 ul li {
@@ -294,6 +294,7 @@ footer {
 		text-shadow: none;
 }
 
+/* Github */
 .fa-github {
     background: linear-gradient(145deg, #3051F1 10%, #C92BB7 70%) no-repeat;
     color: white;
@@ -301,6 +302,7 @@ footer {
 		text-shadow: none;
 }
 
+/* Instagram */
 .fa-instagram {
 	color: white;
 	width:100px; height:100px;
@@ -313,6 +315,7 @@ footer {
 
 }
 
+/* Linkedin */
 .fa-linkedin {
     background: #0077B5;
     color: white;
