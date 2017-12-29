@@ -12,7 +12,7 @@
 	font-family: 'Monoton', cursive;
 	font-size: 70px;
 	text-align: center;
-	background-image: url(/images/portfolioHome.jpg);
+	background-image: url(/images/portfolioBody.jpg);
 	background-position: center;
 	position: relative;
 	image-orientation: center;
@@ -28,8 +28,8 @@ html {
 	background-image: url(/images/portfolioHome.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	image-orientation: center;
 }
+
 @media (min-width:768px) {
 	html {
 		font-size: 20px;
