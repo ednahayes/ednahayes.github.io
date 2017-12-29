@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-![Portfolio Home Page](/images/newPortOne.png)
+![Portfolio Home Page](/images/newPO.png)
 
 This portfolio was created from a Jekyll Base template.
 
