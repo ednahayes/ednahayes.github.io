@@ -27,7 +27,7 @@ html {
 	image-orientation: center;
 	background-image: url(/images/portfolioHome.jpg);
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: cover;
 	image-orientation: center;
 }
 @media (min-width:768px) {
