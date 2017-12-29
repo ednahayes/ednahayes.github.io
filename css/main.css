@@ -13,7 +13,7 @@
 	font-size: 70px;
 	text-align: center;
 	background-image: url(/images/portfolioBody.jpg);
-	/*background-position: center;*/
+	background-position: center;
 	position: relative;
 	image-orientation: center;
 	background-size: cover;
@@ -25,7 +25,10 @@
 html {
 	font-size: 16px;
 	image-orientation: center;
-	background-image: url(/images/portfolioHome.jpg);
+	background-image: url(/images/portfolioBody.jpg);
+	background-position: center;
+	position: relative;
+	image-orientation: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	}
