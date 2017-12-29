@@ -25,10 +25,10 @@
 html {
 	font-size: 16px;
 	image-orientation: center;
-	background-image: url(/images/portfolioBody.jpg);
+	background-image: url(/images/portfolioHome.jpg);
 	background-repeat: no-repeat;
-	background-size: cover;
-
+	background-size: contain;
+	image-orientation: center;
 }
 @media (min-width:768px) {
 	html {
