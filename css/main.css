@@ -25,7 +25,8 @@
 html {
 	font-size: 16px;
 	image-orientation: center;
-	background-image: url(/images/portfolioBody.jpg);
+	/*background-image: url(/images/portfolioBody.jpg);*/
+	background-color: #A79CBC;
 	background-position: center;
 	position: relative;
 	image-orientation: center;
@@ -39,6 +40,8 @@ html {
 
 	}
 }
+
+
 
 form {
 	max-width: 600px;
