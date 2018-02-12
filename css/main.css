@@ -65,6 +65,7 @@ input[type=text], select {
     border-radius: 4px;
     box-sizing: border-box;
 }
+
 input[type=email], select {
     width: 100%;
     padding: 12px 20px;
@@ -74,6 +75,7 @@ input[type=email], select {
     border-radius: 4px;
     box-sizing: border-box;
 }
+
 textarea, select {
     width: 100%;
     padding: 12px 20px;
@@ -114,6 +116,7 @@ title {
 
 .nav {
 	text-align: center;
+	padding-top: 2px;
 }
 
 .individual-post{
@@ -158,10 +161,11 @@ body {
 
 .health {
 	margin-top: 1rem;
-	width: 120%;
-	padding-left: 25%;
+	width: 75%;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: auto;
+	padding-bottom: 10px;
 }
 
 img {
@@ -269,62 +273,57 @@ footer {
 }
 
 /* Style all font awesome icons */
-.fa {
-    padding: 20px;
-    font-size: 60px;
-    width: 60px;
-    text-align: center;
-    text-decoration: none;
+.social [class*="fa fa-"]{
+	border-radius: 30px;
+	color: #fff;
+	display: inline-block;
+	height: 30px;
+	line-height: 30px;
+	margin: auto 3px;
+	width: 30px;
+	font-size: 15px;
+	text-align: center;
+	text-shadow: none;
+	text-decoration: none;
 }
 
-/* Add a hover effect if you want */
+/* hover effect on icons */
 .fa:hover {
-    opacity: 0.7;
+  opacity: 0.7;
 }
 
 /* Set a specific color for each brand */
 
 /* Facebook */
 .fa-facebook {
-	 	background: #3B5998;
-    color: white;
-		width:100px; height:100px;
-		text-shadow: none;
+ 	background: #3B5998;
+	text-decoration: none;
 }
 
 /* Twitter */
 .fa-twitter {
-    background: #55ACEE;
-    color: white;
-		width:100px; height:100px;
-		text-shadow: none;
+  background: #55ACEE;
+	text-decoration: none;
 }
 
 /* Github */
 .fa-github {
-    background: linear-gradient(145deg, #3051F1 10%, #C92BB7 70%) no-repeat;
-    color: white;
-		width:100px; height:100px;
-		text-shadow: none;
+  background: linear-gradient(145deg, #3051F1 10%, #C92BB7 70%) no-repeat;
+	text-decoration: none;
 }
 
 /* Instagram */
 .fa-instagram {
-	color: white;
-	width:100px; height:100px;
-	text-shadow: none;
 	background: #f09433;
 	background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
 	background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
 	background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
-
+	text-decoration: none;
 }
 
 /* Linkedin */
 .fa-linkedin {
-    background: #0077B5;
-    color: white;
-		width:100px; height:100px;
-		text-shadow: none;
+  background: #0077B5;
+	text-decoration: none;
 }

@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 <div class="about container">
-<p>I am a focused developer working with JQuery, AngularJS and Rails.
+<p>I am a focused developer working with JavaScript, JQuery, AngularJS and Ruby on Rails.
 </p>
 
 <p>I love learning about health and wellness thru a natural perspective, and my passion is to live a healthy life while helping and coaching others do the same.
@@ -33,3 +33,4 @@ We live oblivious to the fact that we are surrounded by a polluted environment.
 <img src="/images/healthandWealth.jpg">
 </section>
 </div>
+<br>
