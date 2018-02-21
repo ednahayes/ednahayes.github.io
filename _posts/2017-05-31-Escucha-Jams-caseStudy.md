@@ -1,29 +1,29 @@
 ---
 layout: post
-title:  "Bloc Jams Case Study"
+title:  "Escucha Jams Case Study"
 image: blocjams_3.png
 ---
 
 ## Summary
 Individuals are always wanting to have the best for less.
 They want the best experience without the hassles.
-Bloc Jams is a digital music player that was created in response to that need,
+Escucha Jams is a digital music player that was created in response to that need,
 to listen to the music you want, instead of listening to someone else’s
 music choice.
 
-Bloc Jams is an application that you can use to play, pause, skip a song,
+Escucha Jams is an application that you can use to play, pause, skip a song,
 play the previous song, change the volume using Javascript, JQuery, CSS, HTML,GIT
 and Atom Editor, eventually we refractored our code using Angular.
 
 ## Explanation
-Bloc Jams was my first project as part of my learning while becoming a Web Developer.
+Escucha Jams was my first project as part of my learning while becoming a Web Developer.
 With the help of my mentor Kevin McGillivray, Bloc Jams was started.
 
 As you can see on the picture below, the vibrant colors of the page
 are very inviting and lifts your mood. This was just the beginning of a
 beautiful webpage.
 
-![Bloc Jams ](/images/navbar_styled-ready.png)
+![Escucha Jams ](/images/navbar_styled-ready.png)
 
 ## Problem
 In the process of building Bloc Jams, I encountered issues as any student would,
@@ -33,7 +33,7 @@ since just a simple dot (“.”) would make the page not work.
 The old proverb, “the devil is in the details” is true.
 
 As users are exposed to more sites they become more demanding, expecting the webpages
-they visit to be 100% user-friendly, therefore, Bloc Jams still has a few issues
+they visit to be 100% user-friendly, therefore, Escucha Jams still has a few issues
 that needs to be worked on for example the navigation bar needs to be
 able to select the navigation pages (landing, collection, and album).
 
@@ -57,12 +57,12 @@ were to be able to perform the following tasks:
 -To be able to choose your own music
 
 ## Solution
-The first page of Bloc Jams, gives an answer to the needs of the users.
+The first page of Escucha Jams, gives an answer to the needs of the users.
 It tells you what the music player is about, you choose your music,
 you get Unlimited, streaming, ad-free music, and is mobile enabled,
 therefore meeting some of the needs previously mentioned.
 
-![Bloc Jams](/images/HomeBlocJamsReady.png)
+![Escucha Jams](/images/HomeBlocJamsReady.png)
 
 As you go to the navigation bar located at the top right hand-side of the page,
 called “COLLECTION”, once it’s clicked,  it will take you to the collection
@@ -79,4 +79,4 @@ as well as to be able to change the volume.
 
 ![Album](/images/album3Ready.png)
 
-The completion of Bloc Jams was very rewarding, please take a look at it for your-self.
+The completion of Escucha Jams was very rewarding, please take a look at it for your-self.
