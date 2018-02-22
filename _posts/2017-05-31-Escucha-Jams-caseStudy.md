@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escucha Jams Case Study"
-image: blocjams_3.png
+image: homeEscuchaJams.png
 ---
 
 ## Summary
@@ -17,7 +17,7 @@ and Atom Editor, eventually we refractored our code using Angular.
 
 ## Explanation
 Escucha Jams was my first project as part of my learning while becoming a Web Developer.
-With the help of my mentor Kevin McGillivray, Bloc Jams was started.
+With the help of my mentor Kevin McGillivray, Escucha Jams was started.
 
 As you can see on the picture below, the vibrant colors of the page
 are very inviting and lifts your mood. This was just the beginning of a
@@ -26,7 +26,7 @@ beautiful webpage.
 ![Escucha Jams ](/images/navbar_styled-ready.png)
 
 ## Problem
-In the process of building Bloc Jams, I encountered issues as any student would,
+In the process of building Escucha Jams, I encountered issues as any student would,
 trying to get things to work, while not messing the ones that were already working,
 was always a stressful task. But Always trying to pay attention to detail,
 since just a simple dot (“.”) would make the page not work.
@@ -62,7 +62,7 @@ It tells you what the music player is about, you choose your music,
 you get Unlimited, streaming, ad-free music, and is mobile enabled,
 therefore meeting some of the needs previously mentioned.
 
-![Escucha Jams](/images/HomeBlocJamsReady.png)
+![Escucha Jams](/images/homeEscuchaJams.png)
 
 As you go to the navigation bar located at the top right hand-side of the page,
 called “COLLECTION”, once it’s clicked,  it will take you to the collection
@@ -80,3 +80,9 @@ as well as to be able to change the volume.
 ![Album](/images/album3Ready.png)
 
 The completion of Escucha Jams was very rewarding, please take a look at it for your-self.
+
+[Escucha Jams App](http://ehayes-escucha-jams.netlify.com/)
+
+[Escucha Jams Git Hub](https://github.com/ednahayes/bloc-jams)
+
+[Escucha Jams refractored in AngularJS Git Hub](https://github.com/ednahayes/bloc-jams-angular)
