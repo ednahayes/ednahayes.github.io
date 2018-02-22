@@ -11,12 +11,11 @@ Blocmetrics is an analytic service that offers a few valuable key features.
 ## Explanation
 * A client-side JavaScript snippet allows a user to track events on their website, by adding the following snippet to the user website into their  "app/assets/javascripts/application.js" file:
 
-```ruby
+{% highlight ruby linenos=table %}
  var blocmetrics = {};
    blocmetrics.report = function(eventName){
 
     var event = {event: { name: eventName }};
-
 
     var request = new XMLHttpRequest();
 
@@ -26,14 +25,15 @@ Blocmetrics is an analytic service that offers a few valuable key features.
 
     request.send(JSON.stringify(event));
    };
-```
+{% endhighlight %}
+
 ## then enter this event report in any view
 
-```ruby
+{% highlight ruby linenos %}
  <script type='text/javascript'>
    blocmetrics.report('event name');
  </script>
-```
+{% endhighlight %}
 
 ![Event](/images/blocmetricsEventsDone.png)
 
@@ -51,7 +51,7 @@ Blocmetrics is an analytic service that offers a few valuable key features.
 
 ## We tested the API by using curl:
 
-```ruby
+{% highlight ruby linenos %}
 
  $ curl -v -H "Accept: application/json" -H "Origin: http://registered_application.com" -H "Content-Type: application/json" -X POST -d '{"name":"click"}'  https://ehayes-blocmetrics.herokuapp.com/api/events>
- ```
+{% endhighlight %}

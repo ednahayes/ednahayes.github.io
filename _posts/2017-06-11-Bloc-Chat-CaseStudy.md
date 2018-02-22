@@ -7,7 +7,7 @@ url: /_layouts/newpost.html
 
 ## Summary
 
-Bloc Chat is a real-time Chat application which was built using Firebase JavaScript, AngularFire, CSS, GIT, HTML and Atom Editor.
+Bloc Chat is a real-time chat application which was built using Firebase JavaScript, AngularFire, CSS, GIT, HTML and Atom Editor.
 
 ## Explanation
 Bloc Chat is for the simple user in mind with no strings-attached and ad-free.
@@ -23,15 +23,13 @@ As we started with Bloc Chat there were different needs that needed to be met:
 
 -A user would like to add messages in a chat room
 
--A user would like to add messages in a chat room
-
 -The user name needs to be saved
 
 -New messages are associated with no chat rooms other than the active chat room
 
 ## Solution
 First, we created the basic test rooms in Firebase, then we created a Room Factory
-Factory in Angular that defined all the Room related API queries extracting all
+in Angular which defined all the room related API queries extracting all
 the rooms previously created in Firebase. AngularFire was used to coding Bloc Chat,
 which is somewhat simpler than others.
 
