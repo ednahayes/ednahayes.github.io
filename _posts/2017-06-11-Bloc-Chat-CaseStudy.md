@@ -2,6 +2,7 @@
 layout: post
 title:  "Bloc Chat Case Study"
 url: /_layouts/newpost.html
+published: false
 
 ---
 

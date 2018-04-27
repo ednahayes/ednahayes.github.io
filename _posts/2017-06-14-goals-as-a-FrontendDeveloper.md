@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  My goals as a Frontend developer
+published: false
 ---
 ![Einstein goals](/images/happyLife.jpe)
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Blocipedia"
 image: blocipediaHome.jpg
+published: false
 ---
 
 ## Summary
