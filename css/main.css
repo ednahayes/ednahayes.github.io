@@ -187,7 +187,7 @@ img {
   max-width: 1130px;
   margin-right: auto;
   margin-left: auto;
-	background-color: rgb(231, 215, 236);
+	/*background-color: rgb(231, 215, 236*/);
 }
 
 
@@ -196,7 +196,7 @@ img {
  */
 
 .name {
-	color : #3658DD;
+	color : #0de0e0;
 }
 p {
 	margin-top: 0;
